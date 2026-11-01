@@ -1,0 +1,6 @@
+{
+  "name": "PaperArc - CS Research Agent & Architecture Visualizer",
+  "description": "Advanced Computer Science Research Agent specializing in parsing academic papers, extracting system architectures via interactive Mermaid.js flowcharts, and identifying high-impact student internship and resume opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
